@@ -106,8 +106,7 @@ I engineer systems around **three sovereign principles:**
 
 | Channel | Link |
 |---|---|
-| 📧 Email | jayvishb@gmail.com |
-| 📞 Phone | +1 (571) 444-5458 |
+| 💼 LinkedIn | [Connect with me](https://linkedin.com/in/YOUR-LINKEDIN) |
 | 🌐 Company | [vigilantitsolution.com](https://www.vigilantitsolution.com) |
 | 🏨 Live Demo | [miracle.vigilantitsolution.com](https://miracle.vigilantitsolution.com) |
 
