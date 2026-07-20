@@ -106,7 +106,9 @@ I engineer systems around **three sovereign principles:**
 
 | Channel | Link |
 |---|---|
-| 💼 LinkedIn | [Connect with me](https://linkedin.com/in/YOUR-LINKEDIN) |
+| 📧 Email | shajid@vigilantitsolution.com |
+| 📞 Phone | +880 1711477509 |
+| 💼 LinkedIn | [mohammad-shajidur-rahman](https://linkedin.com/in/mohammad-shajidur-rahman) |
 | 🌐 Company | [vigilantitsolution.com](https://www.vigilantitsolution.com) |
 | 🏨 Live Demo | [miracle.vigilantitsolution.com](https://miracle.vigilantitsolution.com) |
 
