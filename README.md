@@ -4,10 +4,12 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohammad-shajidur-rahman)
 [![Company](https://img.shields.io/badge/Vigilant_IT_Solution-FF6B35?style=for-the-badge&logo=globe&logoColor=white)](https://www.vigilantitsolution.com)
 [![Miracle OS](https://img.shields.io/badge/Miracle_OS-00D4FF?style=for-the-badge&logo=vercel&logoColor=black)](https://miracle.vigilantitsolution.com)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jayvishb@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shajid@vigilantitsolution.com)
+
+![Profile Views](https://komarev.com/ghpvc/?username=milkbaqara-code&color=00D4FF&style=flat-square&label=Profile+Views)
 
 </div>
 
@@ -28,9 +30,10 @@ My current flagship project, **Miracle OS**, is a live, production-deployed ente
 ### 🏨 [Miracle OS](https://miracle.vigilantitsolution.com) — Autonomous Hotel Management System
 > *An enterprise-grade, AI-first Hotel Operating System built for ultra-luxury properties*
 
-- **34 active operational zones** covering every department of a luxury property
-- **Sovereign AI Navigator** (Gemini + Groq fallback) with zero-latency agentic decision-making
-- **Guest Concierge App** — guests book spa, dining, yacht, and helicopter services from their hotel bed
+- **34+ active operational zones** covering every department of a luxury property
+- **Sovereign AI Navigator** (Gemini 2.0 + Groq LLaMA fallback) with zero-latency agentic decision-making
+- **Synapse AGI Engine** — converts a single CDO sentence into a structured 12-task operational sequence
+- **Guest Concierge App** — guests book spa, dining, and helicopter services from their room
 - **Owner Portal** — Real-time P&L, mortgage simulation, and revenue dashboards
 - **Deployed on Hetzner VPS** — Python FastAPI backend + Next.js 15 frontend + WebSocket grid sync
 - **Tech Stack:** `Python` `FastAPI` `Next.js 15` `SQLite/MySQL` `WebSocket` `PM2` `Nginx` `Google Gemini` `Groq LLaMA`
@@ -52,7 +55,7 @@ class MohammadShajidurRahman:
     frontend = ["Next.js 15", "React", "TailwindCSS", "Capacitor (Android)"]
     
     ai_stack = [
-        "Google Gemini", "Groq LLaMA 3.3 (70B)",
+        "Google Gemini 2.0", "Groq LLaMA 3.3 (70B)",
         "OpenAI / Azure OpenAI", "LangChain", "LangGraph",
         "Anthropic APIs", "Agentic AI Pipelines"
     ]
@@ -72,11 +75,38 @@ class MohammadShajidurRahman:
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=milkbaqara-code&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=FFFFFF&icon_color=00D4FF)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=milkbaqara-code&theme=tokyonight" alt="Stats" height="180em"/>
+&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=milkbaqara-code&theme=tokyonight" alt="Top Languages" height="180em"/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=milkbaqara-code&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=FFFFFF)
+<br/><br/>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=milkbaqara-code&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D4FF&ring=00D4FF&fire=FF6B35&currStreakLabel=FFFFFF)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=milkbaqara-code&theme=tokyonight" alt="Profile Details" width="100%"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=milkbaqara-code&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D4FF&line=00D4FF&point=FF6B35&area=true&area_color=00D4FF" alt="Contribution Graph" width="100%"/>
+
+</div>
+
+---
+
+## 🧰 Tech Stack Badges
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-Expert-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-Production-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js_15-Production-000000?style=flat-square&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-Advanced-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Google_Gemini-Integrated-4285F4?style=flat-square&logo=google&logoColor=white)
+![Azure](https://img.shields.io/badge/Microsoft_Azure-Certified-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Production-336791?style=flat-square&logo=postgresql&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-Production-009639?style=flat-square&logo=nginx&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-Containerized-2496ED?style=flat-square&logo=docker&logoColor=white)
+![React](https://img.shields.io/badge/React-Advanced-61DAFB?style=flat-square&logo=react&logoColor=black)
 
 </div>
 
