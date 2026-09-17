@@ -197,13 +197,13 @@ class MiracleOS:
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=milkbaqara-code&theme=tokyonight" alt="Stats" height="180em"/>
+<img src="./profile-summary-card-output/tokyonight/3-stats.svg" alt="Stats" height="180em"/>
 &nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=milkbaqara-code&theme=tokyonight" alt="Top Languages" height="180em"/>
+<img src="./profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="Top Languages" height="180em"/>
 
 <br/><br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=milkbaqara-code&theme=tokyonight" alt="Profile Details" width="100%"/>
+<img src="./profile-summary-card-output/tokyonight/0-profile-details.svg" alt="Profile Details" width="100%"/>
 
 </div>
 
