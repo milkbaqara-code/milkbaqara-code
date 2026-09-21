@@ -7,7 +7,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohammad-shajidur-rahman)
 [![Company](https://img.shields.io/badge/Vigilant_IT_Solution-FF6B35?style=for-the-badge&logo=globe&logoColor=white)](https://www.vigilantitsolution.com)
 [![Miracle OS](https://img.shields.io/badge/Miracle_OS_LIVE-00D4FF?style=for-the-badge&logo=vercel&logoColor=black)](https://miracle.vigilantitsolution.com)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sajid@vigilantitsolution.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shajid@vigilantitsolution.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/8801711477509)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=milkbaqara-code&color=00D4FF&style=flat-square&label=Profile+Views)
@@ -200,7 +200,7 @@ class MiracleOS:
 
 | Channel | Link |
 |---|---|
-| 📧 Email | sajid@vigilantitsolution.com |
+| 📧 Email | [shajid@vigilantitsolution.com](mailto:shajid@vigilantitsolution.com) |
 | 📞 Phone / WhatsApp | [+880 1711-477509](https://wa.me/8801711477509) |
 | 💼 LinkedIn | [mohammad-shajidur-rahman](https://linkedin.com/in/mohammad-shajidur-rahman) |
 | 🌐 Company | [vigilantitsolution.com](https://www.vigilantitsolution.com) |
