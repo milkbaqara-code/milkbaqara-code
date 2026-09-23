@@ -1,12 +1,14 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=800&color=00D4FF&center=true&vCenter=true&width=950&height=60&lines=Mohammad+Shajidur+Rahman;Chief+Digital+Officer+%7C+AI+Architect;Miracle+OS+%E2%80%94+Live+in+Dubai%2C+UK+%26+US;35+Operational+Zones+%7C+Docker+%7C+GitHub+Actions;Building+Autonomous+Sovereign+Ecosystems." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&pause=800&color=00D4FF&center=true&vCenter=true&width=950&height=60&lines=Mohammad+Shajidur+Rahman;Chief+Digital+Officer+%7C+Enterprise+AI+Architect;Building+Autonomous+Sovereign+Ecosystems;Miracle+OS+%E2%80%A2+Miracle+HMS+%E2%80%A2+Miracle+POS;Live+in+Dubai%2C+UK%2C+US+%26+Bangladesh." alt="Typing SVG" />
 
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohammad-shajidur-rahman)
 [![Company](https://img.shields.io/badge/Vigilant_IT_Solution-FF6B35?style=for-the-badge&logo=globe&logoColor=white)](https://www.vigilantitsolution.com)
 [![Miracle OS](https://img.shields.io/badge/Miracle_OS_LIVE-00D4FF?style=for-the-badge&logo=vercel&logoColor=black)](https://miracle.vigilantitsolution.com)
+[![Miracle HMS](https://img.shields.io/badge/Miracle_HMS_LIVE-00FF88?style=for-the-badge&logo=medscape&logoColor=black)](https://hms.vigilantitsolution.com)
+[![Miracle POS](https://img.shields.io/badge/Miracle_POS_LIVE-D4AF37?style=for-the-badge&logo=square&logoColor=black)](https://pos-app.vigilantitsolution.com/auth)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shajid@vigilantitsolution.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/8801711477509)
 
@@ -18,260 +20,232 @@
 
 ## 🧠 Who I Am
 
-I am a **Senior Backend Developer & AI Architect** with 8+ years of engineering experience, serving as **Chief Digital Officer (CDO)** at **Vigilant IT Solution Ltd.**
+I am a **Senior Backend Developer & Enterprise AI Architect** with 8+ years of engineering experience, serving as **Chief Digital Officer (CDO)** at **Vigilant IT Solution Ltd.**
 
-I don't just build software. I build **Autonomous Agentic Ecosystems** — systems that think, decide, and operate without human micromanagement. My work sits at the intersection of enterprise ERP architecture, sovereign AI, DevOps engineering, and real-time operational intelligence.
+I engineer **Autonomous Sovereign Ecosystems** — industrial-grade software networks that govern multi-tenant operations, financial transactions, real-time intelligence, and hardware integrations without external fragility.
 
-> **Miracle OS** is not a demo. It is a live, production-deployed, AI-first enterprise platform actively operating in **Dubai, UK, and US luxury hospitality markets** — replacing legacy PMS software with a self-directing operational nervous system.
-
----
-
-## 🏨 Miracle OS — The Sovereign Enterprise Operating System
-
-> *The world's first fully autonomous, AI-native Hotel & Enterprise Operating System.*
-> *35 live operational zones. One sovereign brain.*
-
-### 🗺️ Full Zone Registry — 35 Active Zones (Live in Production)
-
-#### 🏨 Hospitality Management (HMS Core)
-
-| Zone | Name | Route | What It Does |
-|------|------|-------|-------------|
-| **Z-07** | Command Grid | `/dashboard` | CDO real-time HQ — revenue, occupancy, AI alert matrix, live pulse |
-| **Z-30** | Sovereign PMS | `/dashboard/pms` | Full Property Management — room allocation, folio, night audit, check-in/out |
-| **Z-05** | Reservations | `/dashboard/reservations` | Live booking engine — rooms, spa, dining, yacht, helicopter, fleet |
-| **Z-08** | Checkout / Billing | `/dashboard/checkout` | Guest folio settlement, split payment, digital invoice generation |
-| **Z-19** | CORE PMS / Front Desk | `/dashboard/policy` | Front desk operations, room policy enforcement, house rules |
-| **Z-10** | CRM / Guest Loyalty | `/dashboard/crm` | Full guest profiles, VIP tracking, loyalty points, preference AI |
-| **Z-GUEST** | Guest Concierge | `/guest` | Android thin-client portal — room service, digital key, bill, loyalty |
-
-#### 🍽️ Food & Beverage (F&B) Operations
-
-| Zone | Name | Route | What It Does |
-|------|------|-------|-------------|
-| **Z-29** | F&B / Gastronomy | `/dashboard/z29-gastronomy` | Full dining management, banquet ordering, cover tracking |
-| **Z-06** | POS / Retail | `/dashboard/pos` | Live restaurant cash counter, barcode billing, receipt printing |
-| **Z-KDS** | Kitchen Display System | `/dashboard/orders` | Real-time chef order screen — zero paper tickets, live queue |
-| **Z-MENU** | Guest QR Table Menu | `/menu` | Guest scans QR → orders from phone, no staff needed (PUBLIC) |
-| **Z-DELIVERY** | Rider Portal | `/delivery` | Room service & food delivery rider tracking and management |
-
-#### 🛎️ Guest Services & Lifestyle
-
-| Zone | Name | Route | What It Does |
-|------|------|-------|-------------|
-| **Z-27** | Med-Spa & Wellness | `/dashboard/wellness` | Therapist booking, treatment scheduling, wellness programmes |
-| **Z-28** | Luxury Boutiques | `/dashboard/boutiques` | Resort consignment, luxury brand shopping, retail boutique |
-| **Z-26** | Fleet & Aviation | `/dashboard/fleet` | VIP limousine, speedboat, private charter & aviation logistics |
-| **Z-3B** | Asset Rentals | `/dashboard/rental` | Jet-ski, car hire, resort equipment — live availability & booking |
-| **Z-14** | Media Lab | `/dashboard/media-lab` | Digital signage, resort media, content management |
-| **Z-25** | Guest Marketing | `/dashboard/guest-marketing` | Android APK distribution hub, loyalty engine, campaign management |
-
-#### 💰 Finance, Accounting & Audit (3-Layer Banking-Grade)
-
-| Zone | Name | Route | What It Does |
-|------|------|-------|-------------|
-| **Z-11** | Accounts & Audit | `/dashboard/accounts` | Double-entry ledger, P&L, balance sheet, department vaults & tills |
-| **Z-1B** | Ledger Auth Gateway | `/dashboard/accounts?tab=25` | Batch Consent Gate — 20-tx limit, dept head PIN required |
-| **Z-11B** | Accounting AGI | `/dashboard/agi-accounts` | AI-driven financial analysis, anomaly detection, trend forecasting |
-| **Z-11C** | Sovereign Finance | `/dashboard/sovereign-finance` | SGPE: Tax shield, Escrow vault, Shah Marine ৳45Cr loan waterfall |
-
-#### 👥 HR, Staff & Operations
-
-| Zone | Name | Route | What It Does |
-|------|------|-------|-------------|
-| **Z-09** | HR / Personnel | `/dashboard/hr` | 12-tab HR suite: payroll, attendance, performance, contracts |
-| **Z-2B** | AGI Recruiting | `/dashboard/hr?tab=AGI_RECRUIT` | AI-driven recruitment — CV scoring, churn radar, skill gap map |
-| **Z-12** | Inventory Matrix | `/dashboard/inventory` | Stock control, purchase orders, supplier management, low-stock alerts |
-| **Z-16** | Issue Tickets | `/dashboard/issue-tickets` | Staff fault reporting — maintenance, complaints, escalation chain |
-| **Z-17** | Solve (Staff) | `/dashboard/solve` | Mission resolution — staff closes guest issues with photo proof |
-| **Z-18** | Biometric Portal | `/dashboard/portal` | Staff check-in/check-out via biometric, shift management |
-
-#### 🧠 AI, Infra & System Control
-
-| Zone | Name | Route | What It Does |
-|------|------|-------|-------------|
-| **Z-20** | Synapse Nexus | `/dashboard/synapse` | CDO War Room — AGI directives, neural comms, live org-chart |
-| **Z-21** | Kernel Settings | `/dashboard/settings` | System-wide config, AI model selection, role permissions |
-| **Z-23** | Sovereign Infra | `/dashboard/infrastructure` | VPS health monitoring, PM2 status, watchdog, security audit |
-
-#### 🌐 External Platforms & Portals
-
-| Zone | Name | Route | What It Does |
-|------|------|-------|-------------|
-| **Z-32** | F-Commerce Engine | `/dashboard/fcommerce/` | Bangladesh COD landing pages, Steadfast/Pathao, Meta CAPI, fraud shield |
-| **Z-WEB** | Public Website | `/web` | Vigilant IT Solutions marketing site management |
-| **Z-OWNER** | Owner Portal | `/owner` | Property owner dashboard — revenue share, occupancy, returns |
-| **Z-PROP** | Miracle Properties | `/properties` | Luxury property marketplace + investor portal (Shah Marine Riverfront) |
+Every architecture detailed below is **actively deployed in production**, tested against real-world loads, physical hardware (thermal printers, barcode scanners, biometrics), and real attacks.
 
 ---
 
-## 🤖 Sovereign AI Architecture
+## 🏛️ The Sovereign Miracle Ecosystem (Production Platforms)
 
-### Multi-Model AGI Waterfall — Zero Single Point of Failure
 ```
-Primary          Fallback 1       Fallback 2       Fallback 3        Fallback 4
-────────────     ────────────     ────────────     ────────────      ────────────
-qwen/            openai/          openai/          groq/             groq/
-qwen3.8-27b  →   gpt-oss-120b →   gpt-oss-20b  →   compound      →   compound-mini
-```
-Pure REST API fallback chain via `llm_gateway.py`. If one model is rate-limited or offline, the next activates in **milliseconds** — zero guest-visible failure.
-
-### HR AI Intelligence Suite — 5-Engine Workforce Brain
-
-| Engine | What It Does |
-|--------|-------------|
-| **Churn Radar** | AI analyses every employee for flight risk. Score 0–100. |
-| **Skill Gap Map** | Maps department capability gaps. Identifies promotion-ready staff. |
-| **Burnout Heatmap** | Analyses working hours and pressure scores. Wellness interventions per dept. |
-| **Operative Copilot** | Staff self-service chatbot — leave, salary, SOP, policy answered by AI. |
-| **Compliance Audit** | AI compliance sweep aligned to Bangladesh Labour Act. |
-
-### Autonomous Sales Persona (Visitor Mode)
-When a non-authenticated visitor opens Miracle OS, the AI auto-activates as a luxury sales agent — pitching the full platform, answering questions, and capturing leads — while a **database mutation firewall** blocks all write operations.
-
----
-
-## 🐳 Enterprise DevOps Stack (Production-Proven)
-
-### Docker Container Fleet — Supreme System Standard
-```
-                    [ Browser / Mobile / APK ]
-                              │  Port 80
-                              ▼
-            ┌─────────────────────────────────┐
-            │      nginx:1.27-alpine           │  Gateway
-            │  /api/* → backend  / → frontend  │  ~8 MB
-            └──────────┬──────────────┬────────┘
-                       │              │
-          ┌────────────▼───┐    ┌─────▼────────────────┐
-          │  Next.js 16    │    │  FastAPI Python 3.11  │
-          │  React 19      │    │  Port 8090            │
-          │  Port 3000     │    │  2 Uvicorn workers    │
-          │  ~150 MB       │    │  ~120 MB              │
-          │  non-root      │    │  non-root miracle-svc │
-          └────────────────┘    └──────────┬────────────┘
-                                           │
-                              ┌────────────▼────────────┐
-                              │   Redis 7.4-alpine       │
-                              │   Sessions, OTP, Cache   │
-                              │   256 MB max             │
-                              └─────────────────────────┘
-
-  LOCAL:  docker compose up -d
-  AWS:    docker compose -f docker-compose.yml -f docker-compose.aws.yml up -d
+                                  ┌──────────────────────────────────────────────┐
+                                  │       VIGILANT IT SOLUTIONS LTD. (CDO)       │
+                                  └──────────────────────┬───────────────────────┘
+                                                         │
+         ┌───────────────────────────────┬───────────────┴───────────────┬───────────────────────────────┐
+         ▼                               ▼                               ▼                               ▼
+┌──────────────────┐           ┌──────────────────┐           ┌──────────────────┐           ┌──────────────────┐
+│    MIRACLE OS    │           │   MIRACLE HMS    │           │   MIRACLE POS    │           │  MIRACLE SCHOOL  │
+│  Enterprise ERP  │           │ Healthcare Brain │           │ Standalone Till  │           │ AI-LMS & Cluster │
+│  & Luxury PMS    │           │ Hospital System  │           │ Retail / F&B POS │           │ bilingual Engine │
+│  35 Active Zones │           │ Doctor WebRTC    │           │ 6 Dept BOMs      │           │ MMA Worker 9000  │
+└──────────────────┘           └──────────────────┘           └──────────────────┘           └──────────────────┘
 ```
 
-| Tool | Purpose | Status |
-|------|---------|--------|
-| **Docker** multi-stage builds | All 4 services containerized, non-root, health-checked | ✅ Ready |
-| **GitHub Actions CI** (`miracle_ci.yml`) | Auto-validates syntax, Two-Root sync, WebP assets on every push | ✅ Live & Green |
-| **PM2 Cluster Mode** | Zero-downtime rolling reload on live VPS (Law 15) | ✅ Production |
-| **Nginx** reverse proxy | SSL termination, gzip, WebSocket, security headers | ✅ Production |
-| **Let's Encrypt SSL** | Auto-renewing HTTPS via Certbot | ✅ Active |
-| **miracle_watchdog.sh** | Cron-based auto-restart — backend crash recovery in 5 min | ✅ Production |
-| **sovereign_deploy_all.py** | Paramiko SSH automated deploy script | ✅ Production |
+---
+
+## 🏨 1. Miracle OS — Autonomous Enterprise Operating System
+* **Production URL:** [miracle.vigilantitsolution.com](https://miracle.vigilantitsolution.com)
+* **Stack:** FastAPI (Python 3.11) • Next.js 16 (React 19) • SQLite/PostgreSQL • Redis 7.4 • Nginx
+* **Core Philosophy:** Single-kernel enterprise nervous system replacing fragmented PMS, POS, HR, Accounting, and CRM silos.
+
+### 🗺️ Full 35 Sovereign Zones Registry (Active in Production)
+
+#### 🛎️ Hospitality Management & Core Operations (HMS Core)
+* **Z-07 | Command Grid (`/dashboard`):** Sovereign God-view asset matrix — real-time room cards, active tickets, 33-department live pulse.
+* **Z-30 | Sovereign PMS (`/dashboard/pms`):** Full property management — room allocations, folios, night audits, check-in/checkout.
+* **Z-05 | Reservations Engine (`/dashboard/reservations`):** Live booking engine across rooms, suites, villas, spa, yachts, helicopter charter.
+* **Z-08 | Checkout & Settlement (`/dashboard/checkout`):** Multi-tender folio settlements, split billing, digital tax invoices.
+* **Z-19 | CORE PMS / Front Desk (`/dashboard/policy`):** Front desk policy controls, key management, house rules enforcement.
+* **Z-10 | CRM & Guest Loyalty (`/dashboard/crm`):** VIP journey tracking, automated loyalty coins, guest preference intelligence.
+* **Z-GUEST | Guest Concierge (`/guest`):** Capacitor Android thin-client app — digital key, room service, live bill review, loyalty vault.
+
+#### 🍽️ Gastronomy & F&B Operations
+* **Z-29 | F&B / Gastronomy (`/dashboard/z29-gastronomy`):** Dining reservations, banquet management, table cover metrics.
+* **Z-06 | POS / Retail (`/dashboard/pos`):** Touchscreen retail counter, barcode scanning, live KOT dispatch.
+* **Z-KDS | Kitchen Display System (`/dashboard/orders`):** Kitchen chef dispatch screen — real-time queue, zero paper waste.
+* **Z-MENU | Guest QR Table Menu (`/menu`):** Contactless guest ordering directly from phone browser without app download.
+* **Z-DELIVERY | Rider Portal (`/delivery`):** Room-delivery and courier rider tracking with cash-drop settlement.
+
+#### 🌟 Guest Lifestyle & Concierge Logistics
+* **Z-27 | Med-Spa & Wellness (`/dashboard/wellness`):** Therapist scheduling, clinical spa appointments, treatment tracking.
+* **Z-28 | Luxury Boutiques (`/dashboard/boutiques`):** High-end consignment inventory, retail checkout, brand tracking.
+* **Z-26 | Fleet & Aviation (`/dashboard/fleet`):** VIP limousine dispatch, speedboat logistics, private helicopter flight tracking.
+* **Z-3B | Asset Rentals (`/dashboard/rental`):** Jet-skis, luxury cars, resort equipment hire with damage-deposit vaults.
+* **Z-14 | Media Lab (`/dashboard/media-lab`):** Digital signage broadcasting, resort promotional displays.
+* **Z-25 | Guest Marketing & Distribution (`/dashboard/guest-marketing`):** APK download hub, loyalty campaigns, push notifications.
+
+#### 💰 Finance, Accounting & Banking-Grade Audit
+* **Z-11 | Accounts & Audit (`/dashboard/accounts`):** Triple-layer banking ledger — Append-Only master ledger (Zero UPDATE/DELETE law), balance sheets, P&L.
+* **Z-1B | Ledger Auth Gateway (`/dashboard/accounts?tab=25`):** 20-tx batch consent gate requiring department head PIN authorization.
+* **Z-11B | Accounting AGI (`/dashboard/agi-accounts`):** Anomaly detection, cash flow forecasting, AI audit trail.
+* **Z-11C | Sovereign Finance (`/dashboard/sovereign-finance`):** Sovereign Global Policy Engine (SGPE) — Tax shields, Escrow vaults, Shah Marine ৳45Cr credit line waterfall.
+
+#### 👥 Human Capital & Field Operations
+* **Z-09 | Human Capital / HR (`/dashboard/hr`):** Full 12-tab workforce suite — payroll, contracts, leave approvals.
+* **Z-2B | AGI Recruiting (`/dashboard/hr?tab=AGI_RECRUIT`):** CV scoring, applicant ranking, flight-risk churn radar.
+* **Z-12 | Inventory & Stock Vault (`/dashboard/inventory`):** Real-time stock counts, supplier purchase orders, low-stock threshold triggers.
+* **Z-16 | Issue Tickets (`/dashboard/issue-tickets`):** Maintenance dispatch, guest complaints, priority SLA escalation.
+* **Z-17 | Solve Portal (`/dashboard/solve`):** Staff mission resolution with mandatory photo proof verification.
+* **Z-18 | Biometric Portal (`/dashboard/portal`):** Hardware biometric clock-in, duty shift rosters.
+
+#### 🧠 Kernel Intelligence & System Administration
+* **Z-20 | Synapse Nexus (`/dashboard/synapse`):** CDO War Room — neural communication, operational directives, real-time org-chart.
+* **Z-21 | Kernel Settings (`/dashboard/settings`):** Global permission matrices, AI model switches, system-wide toggles.
+* **Z-23 | Sovereign Infra & SRE (`/dashboard/infrastructure`):** Watchdog daemons, PM2 cluster telemetry, security audit sweeps.
+
+#### 🌐 Marketplaces & Portals
+* **Z-32 | F-Commerce Engine (`/dashboard/fcommerce/`):** Full Bangladesh COD e-commerce engine (Steadfast, Pathao API, Meta CAPI, WebP P-5 optimization).
+* **Z-WEB | Public Website Management (`/web`):** Corporate web portal engine.
+* **Z-OWNER | Owner Yield Portal (`/owner`):** Fractional property investor portal with live ADR/RevPAR yield distribution.
+* **Z-PROP | Miracle Properties (`/properties`):** Luxury resort real-estate marketplace (Shah Marine Riverfront).
 
 ---
 
-## 📱 Android Guest App
+## 🏥 2. Miracle HMS — Healthcare Intelligence Kernel
+* **Production URL:** [hms.vigilantitsolution.com](https://hms.vigilantitsolution.com)
+* **Designation:** Clinical-Grade Hospital Information System (HIS) — *Zero hotel terminology strictly enforced*.
+* **Architecture:** Python FastAPI Backend • Next.js Frontend • Sovereign Brain V67.0 • SQLite/PostgreSQL
 
-- **Capacitor thin-client APK** — `MiracleOS-GuestApp.apk`
-- Guests: room service, digital key, bill view, loyalty coins, F&B ordering
-- **Never in Git** (Law 7 — APK files permanently banned from git, >63 MB)
-- Deployed via chunked SSH upload (`upload_apk.py`) directly to VPS
-- Live: [Download APK](https://miracle.vigilantitsolution.com/downloads/MiracleOS-GuestApp.apk)
-
----
-
-## 🛍️ F-Commerce Engine — Bangladesh Market (Z-32)
-
-| Product | Integrations | Performance |
-|---------|-------------|-------------|
-| Sundarban Honey — COD Landing | Steadfast API + Meta CAPI server-side | Page: 4.0MB → 0.6MB (85% ↓) |
-| Hijama Cupping Clinic | Pathao API + 64-district autocomplete | 10x faster via WebP (Law 17) |
-| Rent-A-Car Service | Fraud blacklist engine + OTP verify | ~3s load on 3G mobile |
-
-All F-Commerce pages use `<picture>` WebP tags with JPEG fallback — **P-5 WebP Standard (Law 17)**.
-
----
-
-## 🛡️ Security Battle Log (Real Incidents — Solved in Production)
-
-| Date | Threat | Resolution |
-|------|--------|-----------|
-| Aug 2026 | XMRig cryptominer — CPU 193%, cron dropper | Killed, deleted, mining IP blocked in iptables |
-| Sep 2026 | Full botnet + LD_PRELOAD rootkit (5 persistence layers) | `chattr -i` → preload cleared, all persistence removed |
-| Sep 2026 | 166 MB APK blobs in git → GitHub push blocked | `git filter-branch` history rewrite, `.gitignore` APK ban |
-| Sep 2026 | SSL certificate expired | Certbot re-issued, auto-renewal confirmed |
+### 🩺 Functioning Healthcare Capabilities
+* **Physician & Doctor Portal (`/dashboard/doctor`):**
+  * **WebRTC Live Tele-Consultation:** Built-in video/audio consultation room directly between physician and remote patient.
+  * **Electronic Medical Records (EMR):** Structured clinical note engine (Symptoms, Physical Examination, Clinical Diagnosis, Prescription Plan).
+  * **Physician Duty Roster:** Real-time on-duty status toggles, patient queue management, and appointment rosters.
+* **Emergency Operations (`/emergency`) & Lab Reception (`/dashboard/lab-reception`):**
+  * High-priority patient admission triage, diagnostic specimen tracking, and lab report delivery.
+* **Patient & Visitor Portal:**
+  * Multi-country SMS/OTP authentication (🇦🇪 UAE +971, 🇧🇩 BD +880, 🇬🇧 UK, 🇺🇸 US) for secure patient chart access.
+* **Bed Census & Clinical PMS:**
+  * Ward and cabin bed occupancy tracking, nursing station assignment, patient folio billing, and pharmacy stock integration.
+* **4-Layer Clinical AI Cost Pyramid (Zero-Token Law):**
+  * **Layer 0:** Pure Python + Regex (<1ms, 0 tokens) — system help, navigation, and definitions.
+  * **Layer 1:** SQLAlchemy Clinical Sensor Pillars (<5ms, 0 tokens) — Bed Census, KPIs, duty schedules, bills.
+  * **Layer 2:** Two-Pass `EXECUTE_SQL` loop (0 tokens) — safe deterministic queries.
+  * **Layer 3:** Gemini Clinical Persona (200-400 tokens) — complex medical synthesis and clinical briefings.
 
 ---
 
-## 🏗️ Full Tech Stack
+## 💳 3. Miracle POS — Standalone Enterprise Point-of-Sale
+* **Production URL:** [pos-app.vigilantitsolution.com/auth](https://pos-app.vigilantitsolution.com/auth)
+* **Architecture:** Next.js 15 • React 19 • TypeScript • Flat-File JSON Engine (100% Offline-Capable)
+* **Design System:** Cyber-Neon Dark Glassmorphism with hardware scanner and thermal print optimization.
+
+### 🛒 Functioning POS & Retail Capabilities
+* **Hardware-Ready Universal Cashier Till (`/terminal` — 1,080 lines):**
+  * USB & Bluetooth barcode scanner support with instant SKU lookup.
+  * 80mm thermal receipt printer styles built-in (instant KOT and customer tax invoice).
+  * 7-currency real-time converter (BDT, USD, AED, EUR, GBP, SAR, QAR).
+  * **Offline Queue:** Local transaction vault buffering sales when network connectivity drops.
+* **PIN Keypad Authentication (`/auth`):**
+  * Fast terminal switching with haptic shake-on-fail security.
+* **6 Department BOM (Bill of Materials) Architect Engines:**
+  * **F&B Culinary BOM (`/dashboard/fnb`):** Automatic ingredient deduction upon order (e.g. buns, patties, sauces).
+  * **Spa & Wellness BOM (`/dashboard/spa`):** Therapy oils, scrubs, and linen depreciation costing.
+  * **Boutique Retail BOM (`/dashboard/boutique`):** Fashion, jewelry, and luxury consignment margin tracking.
+  * **Mini-Shop COGS (`/dashboard/mini-shop`):** Retail inventory cost-of-goods-sold calculation.
+  * **Fleet Transport BOM (`/dashboard/fleet`):** Fuel, chauffeur mileage, and vehicle trip costing.
+  * **Pool & Gym BOM (`/dashboard/pool-gym`):** Day passes, personal trainer sessions, towel tracking.
+* **Live Orders Kanban Board (`/dashboard/orders`):**
+  * Order status pipeline (`PENDING` → `PREPARING` → `DELIVERED`).
+  * **42-Hour TTL Pruning Law:** Automatic garbage collection of old orders preventing DB bloat.
+* **Guest Supershop PWA (`/guest`) & QR Portal:**
+  * Generates local LAN QR codes for contactless table-side mobile ordering.
+* **Integrated Delivery App (`/delivery-app`):**
+  * Order dispatch, courier tracking, and Cash-On-Delivery (COD) cash drop settlement.
+
+---
+
+## 🏫 4. Miracle School — Sovereign LMS & AGI Cluster
+* **Stack:** Next.js Frontend (`Port 3088`) • FastAPI Backend (`Port 8077`) • SQLite
+* **AGI Integration:** Connects to Miracle Marketing Agent (MMA) Worker Cluster (`Port 9000`).
+* **Capabilities:** Automated bilingual curriculum generation, slide deck compilation, and student evaluation.
+* **Three-Path Safety Protocol:** Path 1 (AGI Worker) → Path 2 (Direct Gemini API) → Path 3 (Zero-crash static fallback).
+
+---
+
+## 🐳 Enterprise DevOps & Cloud Fleet
+
+```
+                        [ Internet Traffic / Mobile / App ]
+                                         │
+                                   Port 80 / 443
+                                         ▼
+                      ┌────────────────────────────────────┐
+                      │    nginx:1.27-alpine Gateway       │  miracle-nginx
+                      │    Reverse Proxy + Security HDRs   │  ~8 MB
+                      └──────────────┬───────────────┬─────┘
+                                     │               │
+                          /          │               │  /api/* & /ws/*
+                                     ▼               ▼
+                    ┌──────────────────┐   ┌──────────────────────┐
+                    │ Next.js 16 (SSR) │   │ FastAPI Python 3.11  │
+                    │ miracle-frontend │   │ miracle-backend      │
+                    │ Port 3000        │   │ Port 8090            │
+                    │ Non-root miracle │   │ Non-root miracle-svc │
+                    │ ~150 MB (Alpine) │   │ ~120 MB (Slim)       │
+                    └──────────────────┘   └──────────┬───────────┘
+                                                      │
+                                                      ▼
+                                           ┌──────────────────────┐
+                                           │   Redis 7.4-alpine   │
+                                           │   miracle-redis      │
+                                           │   Port 6379          │
+                                           │   Sessions & OTPs    │
+                                           └──────────────────────┘
+```
+
+* **Docker Multi-Stage Builds:** Standalone Next.js + FastAPI containers under strict non-root security (`uid 1001`).
+* **CI/CD Pipeline:** GitHub Actions (`miracle_ci.yml`) auto-validating Python syntax, Two-Root sync integrity, and WebP compliance on every push.
+* **Zero-Downtime Deployment:** PM2 cluster mode running on live Ubuntu 24.04 VPS with rolling reloads.
+* **AWS Cloud-Ready Override (`docker-compose.aws.yml`):** Direct ECR, AWS RDS PostgreSQL, ElastiCache Redis, and CloudWatch integration ready for seamless scale.
+
+---
+
+## 🛡️ Production Security Incident Log (Hardened in Battle)
+
+| Threat Encountered | Attack Vector | Sovereign Resolution |
+|:---|:---|:---|
+| **XMRig Cryptominer** (Aug 2026) | Cron dropper spiking CPU to 193% | Killed PID, wiped `/root/moneroocean/`, blocked mining pool IPs in `iptables`. |
+| **Full Botnet & LD_PRELOAD Rootkit** (Sep 2026) | 5 persistence layers hijacking shared libraries | Executed `chattr -i /etc/ld.so.preload`, purged preload hooks, removed rogue crontabs. |
+| **Git Large File Crisis** (Sep 2026) | 166MB binary APK blobs blocked pushes | Rewrote git history via `git filter-branch`, established **Iron Law 7** (APK permanent ban from git). |
+| **SSL Certificate Expiry** (Sep 2026) | Date invalidation on production domain | Automated Certbot Let's Encrypt validation hooks with auto-renewing cron triggers. |
+
+---
+
+## 🛠️ Complete Technical Skill Matrix
 
 ```python
-class MiracleOS:
-    language       = ["Python 3.11", "TypeScript", "JavaScript"]
-    backend        = "FastAPI + SQLAlchemy + Alembic"
-    frontend       = "Next.js 16 (App Router) + React 19 + styled-components"
-    database       = "SQLite (VPS production) → PostgreSQL (AWS-ready)"
-    cache          = "Redis 7.4 (sessions, OTP, rate-limiting)"
-    ai_models      = ["qwen/qwen3.8-27b", "openai/gpt-oss-120b", "groq/compound"]
-    ai_framework   = "Multi-model waterfall + LangGraph agents"
-    mobile         = "Capacitor Android APK (thin-client, <64 MB)"
-    containers     = "Docker multi-stage (non-root, health-checked)"
-    orchestration  = "docker compose → Kubernetes (next phase)"
-    ci_cd          = "GitHub Actions (miracle_ci.yml — live & green)"
-    deploy         = "Paramiko SSH + sovereign_deploy_all.py"
-    server         = "Ubuntu 24.04 VPS (Hostnin) → AWS EC2 (ready)"
-    process_mgr    = "PM2 cluster mode — zero-downtime rolling reload"
-    proxy          = "Nginx 1.27 + Let's Encrypt SSL (Certbot)"
-    performance    = "WebP P-5 Standard — 85% bandwidth reduction"
-    security       = "Iron Laws 1–25 (anti-rootkit, non-root Docker, APK ban)"
+class CDOCompetencyMatrix:
+    backend_engineering  = ["Python 3.11/3.14", "FastAPI", "Uvicorn", "SQLAlchemy", "Alembic", "Node.js"]
+    frontend_development = ["Next.js 16/15", "React 19", "TypeScript", "Tailwind CSS", "styled-components", "Capacitor"]
+    databases_and_cache  = ["PostgreSQL", "SQLite", "Redis 7.4", "Flat-File JSON Engines"]
+    devops_and_cloud     = ["Docker", "docker-compose", "GitHub Actions CI/CD", "Nginx", "PM2", "AWS EC2/ECR", "Ubuntu VPS"]
+    ai_and_autonomous    = ["LangGraph", "Gemini 2.0/1.5", "Groq Compound/LLaMA", "Multi-model Fallbacks", "4-Layer Cost Pyramids"]
+    hardware_and_iot     = ["80mm Thermal Receipt Printers", "USB/BT Barcode Scanners", "WebRTC Video/Audio", "Biometric Readers"]
 ```
 
 ---
 
-## 📊 GitHub Stats
+## 🔗 Live System Access
 
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=milkbaqara-code&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=milkbaqara-code&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=milkbaqara-code&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
-## 📈 Current Learning Roadmap (2026 Q4)
-
-```
-✅ Git + GitHub Actions CI/CD  — MASTERED  (live CI pipeline: miracle_ci.yml)
-✅ Docker multi-stage builds   — MASTERED  (4-container fleet, AWS-ready compose)
-⏳ Kubernetes (Minikube)       — IN PROGRESS
-⏳ Terraform (IaC)             — NEXT
-⏳ AWS ECS / ECR deploy        — READY     (docker-compose.aws.yml written)
-⏳ AWS RDS + ElastiCache       — PLANNED
-```
-
----
-
-## 🔗 Live Systems
-
-| System | URL | Status |
-|--------|-----|--------|
-| **Miracle OS ERP** | [miracle.vigilantitsolution.com](https://miracle.vigilantitsolution.com) | 🟢 Live |
-| **Vigilant IT Solutions** | [vigilantitsolution.com](https://www.vigilantitsolution.com) | 🟢 Live |
-| **Guest APK Download** | [MiracleOS-GuestApp.apk](https://miracle.vigilantitsolution.com/downloads/MiracleOS-GuestApp.apk) | 🟢 Live |
+| System | Direct Live Link | Target Domain | Status |
+|:---|:---|:---|:---|
+| **Miracle OS (Enterprise ERP/PMS)** | [https://miracle.vigilantitsolution.com](https://miracle.vigilantitsolution.com) | Luxury Hospitality & Enterprise | 🟢 LIVE |
+| **Miracle HMS (Healthcare HIS)** | [https://hms.vigilantitsolution.com](https://hms.vigilantitsolution.com) | Clinical Hospital Management | 🟢 LIVE |
+| **Miracle POS (Point of Sale)** | [https://pos-app.vigilantitsolution.com/auth](https://pos-app.vigilantitsolution.com/auth) | Retail, Restaurant & F&B POS | 🟢 LIVE |
+| **Vigilant IT Solutions Ltd.** | [https://www.vigilantitsolution.com](https://www.vigilantitsolution.com) | Corporate Headquarters | 🟢 LIVE |
+| **Miracle OS Android Guest APK** | [Direct APK Download](https://miracle.vigilantitsolution.com/downloads/MiracleOS-GuestApp.apk) | Guest Room Key & Concierge | 🟢 LIVE |
 
 ---
 
 <div align="center">
 
-*"I don't just build software. I build sovereign systems that outlast, outthink, and outperform."*
+*"I don't just write code. I build sovereign architectures that outlast, outthink, and outperform."*
 
-**— Mohammad Shajidur Rahman, CDO — Vigilant IT Solution Ltd.**
+**— Mohammad Shajidur Rahman, Chief Digital Officer (CDO) — Vigilant IT Solution Ltd.**
 
 </div>
